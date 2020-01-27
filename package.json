@@ -1,0 +1,19 @@
+{
+  "name": "sf-warfare-sim-electron",
+  "version": "1.0.0",
+  "description": "Stronghold and Followers\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Ds and Followers Warfare Simulator - Electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresgsepulveda/sf-warfare-sim-electron.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andresgsepulveda/sf-warfare-sim-electron/issues"
+  },
+  "homepage": "https://github.com/andresgsepulveda/sf-warfare-sim-electron#readme"
+}
